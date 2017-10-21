@@ -1,0 +1,44 @@
+##CSS DOCUMENT
+
+
+
+.verdana {
+	font-family: "Verdana", "Verdana Bold", "Verdana Italic", "Verdana Bold Italic";
+}
+
+.page-title {
+	font-size: 50px;
+	font-weight: normal;
+}
+
+.link {
+	color: aquamarine;
+	font-size: 16px;
+	text-underline-position: below;
+}
+
+
+
+body {
+	background-color: black;
+	text-align: center;
+}
+
+
+h1, p, h2 {
+	color:white;
+	font-family: 'Verdana', 'Verdana Bold', 'Verdana Italic', 'Verdana Bold Italic';
+		
+}
+
+h2{
+	font-size: 42px;
+}
+.footer {
+	color: gray;
+	text-align: right;
+}
+sub-text {
+	color: gray !Important;
+	font-size: 21px;
+}
